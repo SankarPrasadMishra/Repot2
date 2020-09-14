@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is 2A8C-9F3C
+
+ Directory of C:\Projects
+
+14-09-2020  07:48    <DIR>          .
+14-09-2020  07:48    <DIR>          ..
+14-09-2020  07:48                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  131,822,309,376 bytes free
